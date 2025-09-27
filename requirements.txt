@@ -1,0 +1,10 @@
+pydantic
+twilio 
+fastapi
+uvicorn[standard]
+twilio
+python-dotenv
+httpx
+python-multipart   # necesario para leer formularios (Digits de <Gather>)
+azure-cognitiveservices-speech
+websockets
