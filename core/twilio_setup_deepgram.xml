@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Say language="es-MX">Versión demo de llamada con Atento.</Say>
+  <Connect>
+    <Stream url="wss://preseminal-dormant-marilu.ngrok-free.dev/twilio"/>
+  </Connect>
+</Response>
